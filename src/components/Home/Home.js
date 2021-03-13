@@ -20,7 +20,7 @@ const Home = () => {
 
       <div className="container bg-primary">
         <div className="row px-5 py-4">
-          {teams.slice(0, 15).map((team) => (
+          {teams.slice(0, 21).map((team) => (
             <TeamCard key={team.idTeam} team={team}></TeamCard>
           ))}
         </div>
