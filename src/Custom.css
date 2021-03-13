@@ -1,0 +1,19 @@
+.banner-image {
+    background-image: url("images/banner.jpg");
+    width: 100%;
+    height: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.team-badge{
+    width: 150px;
+    margin:auto;    
+  }
+.details-bg{
+  background-color: navy;
+  overflow: hidden;
+}
+.social-icon a{
+  padding: 5px;
+}
